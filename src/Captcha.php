@@ -1,6 +1,6 @@
 <?php
 
-namespace Jaravel\Captcha;
+namespace Focite\Captcha;
 
 use Exception;
 use GdImage;

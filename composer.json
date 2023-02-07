@@ -1,20 +1,20 @@
 {
-    "name": "jaravel/laravel-captcha",
+    "name": "focite/laravel-captcha",
     "require": {
         "php": "^8.1"
     },
     "autoload": {
         "psr-4": {
-            "Jaravel\\Captcha\\": "src/"
+            "Focite\\Captcha\\": "src/"
         }
     },
     "extra": {
         "laravel": {
             "providers": [
-                "Jaravel\\Captcha\\ServiceProvider"
+                "Focite\\Captcha\\ServiceProvider"
             ],
             "aliases": {
-                "Captcha": "Jaravel\\Captcha\\Facade"
+                "Captcha": "Focite\\Captcha\\Facade"
             }
         }
     }
