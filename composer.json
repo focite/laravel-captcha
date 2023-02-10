@@ -1,5 +1,6 @@
 {
     "name": "focite/laravel-captcha",
+    "license": "Apache-2.0",
     "require": {
         "php": "^8.1"
     },
